@@ -1,0 +1,8 @@
+Fecha: 2026-07-08T00:28:43.135781Z
+Vectorization summary
+---------------------
+Parameters: {'max_features': 20000, 'ngram_range': (1, 2), 'min_df': 5, 'sublinear_tf': True, 'norm': 'l2', 'stop_words': None}
+Decision: se usa TF-IDF vs conteo porque captura importancia de términos normalizada y permite n-grams.
+Decision: el neutral se agrupa con positive para clasificación binaria; esto reduce la clase negativa a 0 y positive/neutral a 1.
+Neutral -> positive: 1530 ejemplos.
+torch disponible: True

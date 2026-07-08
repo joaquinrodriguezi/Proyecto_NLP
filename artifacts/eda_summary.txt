@@ -1,0 +1,6 @@
+Número de registros en la submuestra: 5000
+¿Hay etiqueta?: no
+Top 5 unigrams: the, he, to, a, is
+Longitud media en palabras: 17.52
+Conteos URLs: 5; menciones: 7; hashtags: 19; emojis: 959
+Rutas de archivos generados: data\raw\sample_5000.csv, artifacts, notebooks\01_EDA.ipynb, src\eda.py

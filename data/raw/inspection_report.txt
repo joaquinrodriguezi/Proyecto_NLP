@@ -1,0 +1,38 @@
+Shape del dataset: (231051, 10)
+Columnas:
+- commentId
+- content
+- publishedTime
+- replyLevel
+- authorButtonA11y
+- imageAttachmentMaxHeight
+- video_id
+- likeCountLiked
+- likeCountDisliked
+- replyCount
+Nulos por columna:
+- commentId: 0 (0.0%)
+- content: 0 (0.0%)
+- publishedTime: 0 (0.0%)
+- replyLevel: 0 (0.0%)
+- authorButtonA11y: 129 (0.06%)
+- imageAttachmentMaxHeight: 230946 (99.95%)
+- video_id: 0 (0.0%)
+- likeCountLiked: 0 (0.0%)
+- likeCountDisliked: 231051 (100.0%)
+- replyCount: 231051 (100.0%)
+Columna de texto elegida: commentId
+Columna de etiqueta detectada: None
+Estadísticas de longitud:
+     metric  min  25%  median      mean  75%  max
+char_length   20 26.0    26.0 25.957126 26.0   26
+ word_count    1  1.0     1.0  1.000000  1.0    1
+Conteos de elementos problemáticos:
+- urls: 0 (0.0%)
+- mentions: 0 (0.0%)
+- hashtags: 0 (0.0%)
+- empty_text: 0 (0.0%)
+- short_text: 231051 (100.0%)
+Rutas de archivos guardados:
+- data\raw\sample_head.csv
+- data\raw\inspection_report.txt

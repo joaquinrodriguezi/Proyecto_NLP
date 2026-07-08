@@ -1,0 +1,21 @@
+id,text_lemma,true_label,pred_label,pred_prob,category,notes,created_at
+misclassified_categorized_00000,honest say,1,0,0.9998821,ambiguous,texto corto o poco contexto,2026-07-04 18:59:37
+misclassified_categorized_00001,return to the pondemoji_face_with_tears_of_joyemoji_face_with_tears_of_joyemoji_face_with_tears_of_joy,1,0,0.9824792,ambiguous,texto corto o poco contexto,2026-07-04 18:59:37
+misclassified_categorized_00002,bless he,0,1,0.9804717,ambiguous,texto corto o poco contexto,2026-07-04 18:59:37
+misclassified_categorized_00003,jon jones vs jake paul confirm,0,1,0.978296,other,,2026-07-04 18:59:37
+misclassified_categorized_00004,lol guru jon be not fight ngannou he s not fight anyone he s the wwe heavyweight champion,0,1,0.97771055,sarcasm,palabras clave de sarcasmo detectadas,2026-07-04 18:59:37
+misclassified_categorized_00005,jones correu do francis e agora tá correndo do espinal essa luta não vai rolar não esperem essa luta,1,0,0.9677348,other,,2026-07-04 18:59:37
+misclassified_categorized_00006,lol chael throw rabbit punch he didn t know what to do,1,0,0.9667339,sarcasm,palabras clave de sarcasmo detectadas,2026-07-04 18:59:37
+misclassified_categorized_00007,f k jones make the fight aspinall vs ngannou much well fight,0,1,0.9666326,other,,2026-07-04 18:59:37
+misclassified_categorized_00008,paddy the badddy,1,0,0.96624714,ambiguous,texto corto o poco contexto,2026-07-04 18:59:37
+misclassified_categorized_00009,good for he I say,0,1,0.9650181,other,,2026-07-04 18:59:37
+misclassified_categorized_00010,and look at he now a proper emoji_duck,1,0,0.9625226,other,,2026-07-04 18:59:37
+misclassified_categorized_00011,lol no way emoji_smiling_face_with_open_mouth_and_cold_sweatemoji_smiling_face_with_open_mouth_and_cold_sweatemoji_smiling_face_with_open_mouth_and_cold_sweat jon be hilarious I don t understand why the ufc would book such a match for the title when you have an interim champion in the division doesn t make sense jones be act as if people be just pull up aspinall out of nowhere why have an interim championship when the undisputed champion be actively fight in the division,1,0,0.9509311,emoji_conflict,emoji polarity=0 vs true_label=1,2026-07-04 18:59:37
+misclassified_categorized_00012,somebody call a doctor stipe ain t gon shit right for 2week after the mule kick ouch I feel bad for dood,1,0,0.9466908,sarcasm,palabras clave de sarcasmo detectadas,2026-07-04 18:59:37
+misclassified_categorized_00013,bispe gullible af man it s actually cute how easy it be to trick this guy,1,0,0.9305644,other,,2026-07-04 18:59:37
+misclassified_categorized_00014,no chance on beat fury or wilder,1,0,0.9282617,other,,2026-07-04 18:59:37
+misclassified_categorized_00015,tha g o a t,0,1,0.92436075,other,,2026-07-04 18:59:37
+misclassified_categorized_00016,this fight should have never happen jones be x3 fast,0,1,0.9170688,other,,2026-07-04 18:59:37
+misclassified_categorized_00017,aspinall so thirsty to fight the champ how many time must bone prove himself you all keep come back to see he loose you all thirsty like tom emoji_face_with_tears_of_joyemoji_face_with_tears_of_joyemoji_face_with_tears_of_joy,0,1,0.9100809,emoji_conflict,emoji polarity=1 vs true_label=0,2026-07-04 18:59:37
+misclassified_categorized_00018,john jones be a fuckin bum that would get smash in a street fight,1,0,0.90190923,other,,2026-07-04 18:59:37
+misclassified_categorized_00019,why be we translate english to english,0,1,0.89711344,other,,2026-07-04 18:59:37

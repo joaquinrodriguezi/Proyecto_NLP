@@ -1,0 +1,8 @@
+NLTK_time_s: 1.992982
+spaCy_time_s: 3.138730
+Total_tokens_nltk: 8810
+Changed_tokens_nltk: 496
+Perc_changed_nltk: 5.6300
+Total_tokens_spacy: 8810
+Changed_tokens_spacy: 1487
+Perc_changed_spacy: 16.8785

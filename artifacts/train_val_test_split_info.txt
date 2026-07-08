@@ -1,0 +1,11 @@
+Train/Val/Test split counts
+train: 4250
+val: 375
+test: 375
+
+Distribution binary labels by split
+train: 1470 (class 0), 2780 (class 1)
+val: 130 (class 0), 245 (class 1)
+test: 130 (class 0), 245 (class 1)
+
+Torch available: True

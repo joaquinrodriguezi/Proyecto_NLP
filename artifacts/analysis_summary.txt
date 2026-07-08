@@ -1,0 +1,42 @@
+Resumen de análisis post-entrenamiento
+====================================
+Fecha: 2026-07-04 18:59:38
+
+Mejor época: 2
+Val loss mínima: 0.3834
+Accuracy test: 0.7760
+Precision macro test: 0.7534
+Recall macro test: 0.7618
+F1 macro test: 0.7569
+Total de errores: 20
+Distribución por categoría:
+  - ambiguous: 4
+  - emoji_conflict: 2
+  - other: 11
+  - sarcasm: 3
+
+Predicciones recalculadas usando artifacts/best_model.pt + artifacts/X_tfidf.npz + data/processed/test.pt.
+
+Archivos generados:
+  - artifacts\plot_loss_curves.png
+  - artifacts\plot_accuracy_curves.png
+  - artifacts\plot_f1_macro_curve.png
+  - artifacts\confusion_matrix_annotated.png
+  - artifacts\confusion_matrix_values.csv
+  - artifacts\calibration_plot.png
+  - artifacts\calibration_scores.csv
+  - artifacts\top_features_global.png
+  - artifacts\top_features_global.csv
+  - artifacts\top_features_by_class.png
+  - artifacts\top_features_by_class.csv
+  - artifacts\misclassified_categorized.csv
+  - artifacts\misclassified_representative_50.csv
+  - artifacts\misclassified_examples_grid.png
+  - artifacts\misclassified_examples_for_doc.csv
+  - artifacts\analysis_summary.txt
+
+Recomendaciones:
+  - Revisar etiquetas VADER en ejemplos ambiguos o con emojis conflictivos.
+  - Añadir 1k ejemplos manualmente anotados para reducir ruido de etiqueta.
+  - Probar TruncatedSVD o embeddings ligeros para mejorar separación semántica.
+  - Evaluar un modelo de clasificación por clases con balanceo adicional para errores de sarcasmo.

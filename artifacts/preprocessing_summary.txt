@@ -1,0 +1,15 @@
+regex_used: C:\Users\joako\OneDrive\Data Science\Proyecto_DS3\artifacts\regex_used.txt
+hashtag_decision: eliminar
+emoji_decision_file: C:\Users\joako\OneDrive\Data Science\Proyecto_DS3\artifacts\emoji_decision.txt
+stopwords_file: C:\Users\joako\OneDrive\Data Science\Proyecto_DS3\artifacts\stopwords_final.txt
+NLTK_time_s: 1.992982
+spaCy_time_s: 3.138730
+Perc_changed_nltk: 5.6300
+Perc_changed_spacy: 16.8785
+nltk_csv: C:\Users\joako\OneDrive\Data Science\Proyecto_DS3\artifacts\nltk_lemmatization_500.csv
+spacy_csv: C:\Users\joako\OneDrive\Data Science\Proyecto_DS3\artifacts\spacy_lemmatization_500.csv
+comparison_csv: C:\Users\joako\OneDrive\Data Science\Proyecto_DS3\artifacts\lemmatization_comparison.csv
+clean_examples: C:\Users\joako\OneDrive\Data Science\Proyecto_DS3\artifacts\clean_examples_before_after.csv
+tokenized_examples: C:\Users\joako\OneDrive\Data Science\Proyecto_DS3\artifacts\tokenized_examples.csv
+representative_examples: C:\Users\joako\OneDrive\Data Science\Proyecto_DS3\artifacts\representative_examples.csv
+stopword_examples: C:\Users\joako\OneDrive\Data Science\Proyecto_DS3\artifacts\stopword_examples.csv

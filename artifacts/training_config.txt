@@ -1,0 +1,10 @@
+seed=42
+batch_size=64
+lr=0.001
+epochs=50
+patience=5
+architecture=TextClassifier(input_dim=1526, hidden1=1024, hidden2=256, n_classes=2, dropout=0.5)
+loss=CrossEntropyLoss(weight=class_weights)
+optimizer=Adam
+device=cpu
+strategy=TF-IDF sparse matrix loaded from artifacts/X_tfidf.npz and converted to dense per batch if needed
